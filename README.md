@@ -1,4 +1,4 @@
-#U.S Car Pricing Analysis
+*U.S Car Pricing Analysis*
 
 Project Overview
 This project aims to analyze the factors that influence car prices in the American market. It is part of an effort by a Chinese automobile company looking to enter the US market by understanding the dynamics of car pricing and tailoring their business strategies accordingly.
