@@ -18,10 +18,10 @@ Provide insights into the pricing dynamics of the American automotive market.
 
 The dataset consists of a wide range of cars in the American market, with features including but not limited to:
 
-Car specifications (engine size, horsepower, fuel type, etc.)
-Manufacturer details
-Market positioning
-Year of manufacture
+Car specifications (engine size, horsepower, fuel type, etc.), 
+Manufacturer details, 
+Market positioning, 
+Year of manufacture, 
 Other economic factors
 
 ## ***Methodology***
